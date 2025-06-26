@@ -1,5 +1,7 @@
 # Lending Risk Analytics Dashboard using Power BI & Azure
 
+![image](https://github.com/user-attachments/assets/77cecd9d-446b-409a-a410-ca183f3f5dce)
+
 ## 🌐 Overview
 
 This project presents an end-to-end Business Intelligence solution developed using the Lending Club loan dataset (2007-2015), containing ~890,000 loan records and 145 features. It enables data-driven decisions around borrower risk, loan performance, and regional trends.
