@@ -34,12 +34,16 @@ Data Visualization in Power BI
 
 CSV Dataset (~145 columns, 890K rows)
           ⬇️
+
 Python (Data Cleaning, Sampling 20K rows from 2014-2018)
           ⬇️
+
 Azure SQL (Push via SQLAlchemy)
           ⬇️
+
 Power BI (DirectQuery Mode)
           ⬇️
+
 Star Schema Modeling & DAX-based Visuals
 
 ## 🧱 Data Modeling: Star Schema
